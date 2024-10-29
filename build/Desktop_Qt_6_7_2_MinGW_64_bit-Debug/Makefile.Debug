@@ -610,6 +610,10 @@ debug/moc_mainwindow.cpp: ../../mainwindow.h \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/QTimer \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/qtimer.h \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/qbasictimer.h \
+		C:/Qt/6.7.2/mingw_64/include/QtWidgets/QLabel \
+		C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlabel.h \
+		C:/Qt/6.7.2/mingw_64/include/QtGui/qpicture.h \
+		C:/Qt/6.7.2/mingw_64/include/QtGui/qtextdocument.h \
 		../../Raindrop.h \
 		C:/Qt/6.7.2/mingw_64/include/QtWidgets/QGraphicsEllipseItem \
 		C:/Qt/6.7.2/mingw_64/include/QtWidgets/qgraphicsitem.h \
@@ -1133,6 +1137,10 @@ debug/main.o: ../../main.cpp ../../mainwindow.h \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/QTimer \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/qtimer.h \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/qbasictimer.h \
+		C:/Qt/6.7.2/mingw_64/include/QtWidgets/QLabel \
+		C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlabel.h \
+		C:/Qt/6.7.2/mingw_64/include/QtGui/qpicture.h \
+		C:/Qt/6.7.2/mingw_64/include/QtGui/qtextdocument.h \
 		../../Raindrop.h \
 		C:/Qt/6.7.2/mingw_64/include/QtWidgets/QGraphicsEllipseItem \
 		C:/Qt/6.7.2/mingw_64/include/QtWidgets/qgraphicsitem.h \
@@ -1345,6 +1353,10 @@ debug/mainwindow.o: ../../mainwindow.cpp ../../mainwindow.h \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/QTimer \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/qtimer.h \
 		C:/Qt/6.7.2/mingw_64/include/QtCore/qbasictimer.h \
+		C:/Qt/6.7.2/mingw_64/include/QtWidgets/QLabel \
+		C:/Qt/6.7.2/mingw_64/include/QtWidgets/qlabel.h \
+		C:/Qt/6.7.2/mingw_64/include/QtGui/qpicture.h \
+		C:/Qt/6.7.2/mingw_64/include/QtGui/qtextdocument.h \
 		../../Raindrop.h \
 		C:/Qt/6.7.2/mingw_64/include/QtWidgets/QGraphicsEllipseItem \
 		C:/Qt/6.7.2/mingw_64/include/QtWidgets/qgraphicsitem.h \

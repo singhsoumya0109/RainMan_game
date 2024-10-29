@@ -27,6 +27,8 @@ private slots:
     void spawnRaindrop();
     void updateGame();
 
+    void on_pushButton_clicked();
+
 private:
     Ui::MainWindow *ui;
     QGraphicsScene *scene;
@@ -37,6 +39,7 @@ private:
     QTimer *gameTimer;
     QLabel *scoreLabel; // To display the score
     int score; // Variable to track the score
+
 
     void updateScore(int points); // Method to update the score
 };
