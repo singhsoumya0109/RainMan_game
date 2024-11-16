@@ -117,7 +117,8 @@ MainWindow::~MainWindow() {
 
 
 void MainWindow::spawnRaindrop() {
-    int x = QRandomGenerator::global()->bounded(60, 700); // Random x position for raindrop
+    int y=umbrella->location_right_now;
+    int x = QRandomGenerator::global()->bounded(y-5, y+150); // Random x position for raindrop
     // int x =60;
     Raindrop *raindrop = new Raindrop(x, 0, 5, 20); // Create raindrop at random position
     raindrops.append(raindrop); // Add raindrop to list
