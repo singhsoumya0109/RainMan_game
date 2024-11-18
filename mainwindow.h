@@ -40,7 +40,7 @@ private:
     QLabel *scoreLabel; // To display the score
     int score; // Variable to track the score
 
-
+    void endGame();
     void updateScore(int points); // Method to update the score
 };
 
